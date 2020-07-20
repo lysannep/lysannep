@@ -1,14 +1,12 @@
 ### Hello! 👋 I'm Lysanne
 
 
- :bulb: I'm a technical writer and instructional designer
- 
- :round_pushpin: Based in Ottawa, ON
-
- :computer: 5+ years of experience in the software industry
- 
+ :computer: I'm a technical writer
+  
  :cloud: Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
-   
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Lysanne_Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lysanne-pinto-3a8a7a106/)](https://www.linkedin.com/in/lysanne-pinto-3a8a7a106/) 
+ 
 
 
 
