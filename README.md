@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello! 👋 I'm Lysanne
+
+
+ :bulb: I'm a technical writer and instructional designer
+ 
+ :round_pushpin: Based in Ottawa, ON
+
+ :computer: 5+ years of experience in the software industry
+ 
+ :cloud: Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
+   
+
+
+
 
 <!--
 **lysannep/lysannep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
