@@ -5,7 +5,7 @@
  
  :seedling: I design learning experiences centered on the learner and their goals.
  
- :mag: Focus on both content (IA/ID approach) and user experience (UX approach).
+ :mag: My focus is on both content (IA/ID approach) and user experience (UX approach).
   
  :cloud: Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
  
