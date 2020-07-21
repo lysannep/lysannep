@@ -3,7 +3,9 @@
 
  :computer: I'm a technical writer with a growth mindset.
  
- :seedling: I design learning experiences that focus on the learner and their goals.
+ :seedling: I design learning experiences centered on the learner and their goals.
+ 
+ :mag: Focus on both content (ID approach) and user experience (UX approach).
   
  :cloud: Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
   
