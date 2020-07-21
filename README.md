@@ -1,11 +1,11 @@
 ### Hello! 👋 I'm Lysanne
 
 
- :computer: I'm a technical writer with a growth mindset.
+ :computer: I'm a technical writer and instructional designer with a growth mindset.
  
  :seedling: I design learning experiences centered on the learner and their goals.
  
- :mag: Focus on both content (ID approach) and user experience (UX approach).
+ :mag: Focus on both content (IA/ID approach) and user experience (UX approach).
   
  :cloud: Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
  
