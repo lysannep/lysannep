@@ -1,7 +1,9 @@
 ### Hello! 👋 I'm Lysanne
 
 
- :computer: I'm a technical writer
+ :computer: I'm a technical writer with a growth mindset.
+ 
+ :seedling: I design learning experiences that focus on the learner and their goals.
   
  :cloud: Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
   
