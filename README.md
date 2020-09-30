@@ -1,13 +1,11 @@
 ### Hello! 👋 I'm Lysanne
 
 
- :computer: I'm a technical writer and instructional designer.
- 
- :seedling: I design learning experiences centered on the learner and their goals.
+💻 I'm a technical writer and instructional designer.
    
- :cloud: Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
+☁️ Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
  
- :construction: Learning how to implement docs-as-code solutions and researching API documentation.
+🌱 Learning how to implement docs-as-code solutions.
   
 [![Linkedin Badge](https://img.shields.io/badge/-Lysanne_Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lysanne-pinto-3a8a7a106/)](https://www.linkedin.com/in/lysanne-pinto-3a8a7a106/) 
  
