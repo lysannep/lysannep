@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Lysanne
 
 
- :computer: I'm a technical writer and instructional designer with a growth mindset.
+ :computer: I'm a technical writer and instructional designer.
  
  :seedling: I design learning experiences centered on the learner and their goals.
    
