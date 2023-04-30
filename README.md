@@ -1,4 +1,8 @@
-### Hello! 👋
+### Hello! My name is Lysanne 👋
+
+  <a href="https://www.linkedin.com/in/lysanne-pinto-3a8a7a106/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <!--
 **lysannep/lysannep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
