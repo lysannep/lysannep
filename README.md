@@ -1,4 +1,4 @@
-### Hello! My name is Lysanne 👋
+### Hello!👋
 
   <a href="https://www.linkedin.com/in/lysanne-pinto-3a8a7a106/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
